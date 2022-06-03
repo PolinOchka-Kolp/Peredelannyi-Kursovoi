@@ -1,0 +1,56 @@
+[
+  {
+    "groupId": 1,
+    "id": 1,
+    "grades": [
+      {
+        "student": "Колпакова Полина Евгеньевна",
+        "subject": "OOP",
+        "grade": 8
+      },
+      {
+        "student": "Колпакова Полина Евгеньевна",
+        "subject": "TOAPS",
+        "grade": 15
+      },
+      {
+        "student": "Колпакова Полина Евгеньевна",
+        "subject": "EIS",
+        "grade": 10
+      },
+      {
+        "student": "Колпакова Полина Евгеньевна",
+        "subject": "Metrologi",
+        "grade": 9
+      }
+    ],
+    "fio": "Колпакова Полина Евгеньевна"
+  },
+  {
+    "groupId": 1,
+    "id": 2,
+    "grades": [
+      {
+        "student": "Селезнёв Дмитрий Сергеевич",
+        "subject": "OOP",
+        "grade": 4
+      },
+      {
+        "student": "Селезнёв Дмитрий Сергеевич",
+        "subject": "TOAPS",
+        "grade": 9
+      },
+      {
+        "student": "Селезнёв Дмитрий Сергеевич",
+        "subject": "EIS",
+        "grade": 8
+      },
+      {
+        "student": "Селезнёв Дмитрий Сергеевич",
+        "subject": "Metrologi",
+        "grade": 9
+      }
+    ],
+    "fio": "Селезнёв Дмитрий Сергеевич"
+  }
+]
